@@ -1,16 +1,30 @@
-# cripto_currency_app
+# Criptocurrency App
 
-A new Flutter project.
+Aplicación realizada en flutter para la prueba laboral de la compañía BertCord
 
-## Getting Started
+### Flutter Version: 2.5.2
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+Para comenzar a usar el proyecto debes tener instalado [Android Studio](https://developer.android.com/studio?gclsrc=aw.ds&gclid=Cj0KCQiAosmPBhCPARIsAHOen-MAhn-QkSuFyNqOIISdp9n8JWJnJjta_yK7bMGdYZQ3ULgBUXg6sn0aAiGxEALw_wcB), [Xcode](https://developer.apple.com/xcode/) para compilar en iOS y el SDK de [Flutter](https://flutter.dev/?gclsrc=aw.ds&gclid=Cj0KCQiAosmPBhCPARIsAHOen-NG-9w__shRKVZMtuIiPdPXVSs8hHnQoqU74KIy0sbaF-AUR5ueSOkaAjjIEALw_wcB) en su ultima version.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Usar el comando para comprobar que tienes todo lo necesario para correr una App con Flutter 
+bash
+flutter doctor
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Usar este comando para obtener todos los paquetes y dependencias del proyecto
+bash
+flutter pub get
+
+Selecciona un dispositivo ya sea un Emulador o Fisico y usa el siguiente comando para correr la aplicacion
+bash
+flutter run
+
+Si deseas una version Release del proyecto debes usar el siguiente comando
+bash
+flutter run --release
+
+
+## Author
+
+#### Eliu Ortega
